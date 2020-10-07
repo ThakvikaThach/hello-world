@@ -1,4 +1,4 @@
 # hello-world
 Learning to use github
 
-Learning to commit
+Learning to commit changes
